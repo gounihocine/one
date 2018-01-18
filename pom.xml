@@ -4,7 +4,7 @@
   <groupId>lu.ausy</groupId>
   <artifactId>demo</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>RELEASE 1.0</version>
   <name>demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
